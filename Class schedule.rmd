@@ -1,0 +1,212 @@
+---
+title: ''
+  html_document:
+    df_print: paged
+---
+
+\newpage
+
+# `r fontawesome::fa("calendar-alt")` Class schedule. 
+
+ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
+
+## Part 1. `r fontawesome::fa("battery-quarter")`
+
+**Session 1. `r fontawesome::fa("credit-card")` Monday, 16 January.**
+
+- Readings. Course syllabus (this document).
+- Activity. Welcome. Introduction to the course.
+- Activity. Set up your free DataCamp and Deepnote accounts (you should have invitations in your UDEM student email).
+- Activity. Define your group of no more than 4 members (you should have an invitation in your UDEM student email).
+
+
+
+<!-- - Readings. @crouhy2014essentials: Chapter 1: Risk management a helicopter view. -->
+<!-- - Complementary material. @crouhy2014essentials videos: First [The Building Blocks of Risk Management.](https://youtu.be/sKMt1qzmGfU) Second [Risk Management: A Helicopter View.](https://youtu.be/PJbRtIVGdaI) -->
+<!-- - Complementary material. Reading: @brealey2020principles: Chapter 26 Managing Risk. -->
+
+
+<!-- - Readings. @crouhy2014essentials: Chapter 2: Corporate risk management a primer. -->
+<!-- - Complementary material. @crouhy2014essentials video: [Corporate Risk Management: A Primer.](https://youtu.be/YWpfwi8wD4c) -->
+
+**Session 2. Monday, 23 January.**
+
+- $H_1$ review session.
+
+
+<!-- - Readings. @crouhy2014essentials: Chapter 2: Corporate risk management a primer. -->
+<!-- - Extra marks. DataCamp project: *Introduction to DataCamp Projects* by Rasmus Bååth. Before 10:00 a.m. -->
+
+
+
+<!-- - Readings. @lozanoARF: Chapter 1. Loan analysis. -->
+<!-- - To know more about regression with a binary dependent variable, and references to credit risk please see @hanck2020introduction: Chapter 11. @hull2020machine: Chapter 3. Classifiers: [ROC Curves, Area under curve, classification rate, true/false positive rate.](https://youtu.be/HljSmQhLs8M) -->
+
+**Session 3. Monday, 30 January.**
+
+<!-- - Readings. @lozanoARF: Chapter 1 Loan analysis; Mensaje del futuro para ARF. -->
+<!-- - Complementary material. Article: @alonso2021understanding. -->
+<!-- - Extra marks. DataCamp course: *Credit Risk Modeling in R* by Lore Dirick. Before 10:00 a.m. -->
+
+- Complete $H_1$ before 10:00 a.m.
+- Review $H_1$ answers.
+- $E_1$ review session.
+
+<!-- - Readings. @lozanoARF: Chapter 1. Loan analysis. -->
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 6 February.**
+
+<!-- - Readings. @Hull9: Section 24.1 Credit ratings; Section 24.2 Historical default probabilities; Section 24.3 Recovery rates. -->
+<!-- - Complementary material. Fictional video (warning, it has offensive language): [FrontPoint Partners confronts Morgan Stanley Risk Assessors and S&P.](https://youtu.be/Vvxbc8L4s64) -->
+<!-- - Complementary material. Video: [Ethics and Trust in the Investment Profession.](https://youtu.be/azBhDSjBRS0) -->
+<!-- - Complementary material. PowerPoint slides: [John C. Hull.](https://www-2.rotman.utoronto.ca/~hull/ofodslides/index.html) -->
+<!-- - Extra marks. DataCamp skill track: R Programming. Before 10:00 a.m. -->
+
+**Session 4. Monday, 13 February.**
+
+- $E_1$ instructions available in Blackboard.
+- Review $E_1$ answers.
+
+<!-- - Readings. @Hull9: Section 24.6 Using equity prices to estimate default probabilities; @lozanoARF: Chapter 2 The Merton model. -->
+<!-- - Complementary material. Reading: @brealey2020principles: Chapter 23 Credit Risk and the Value of Corporate Debt. -->
+<!-- - Complementary material. Video: [Merton Model for Credit Risk Assessment.](https://youtu.be/TjVvatkjlsM) -->
+
+
+
+
+<!-- - Readings. @Hull9: Section 24.6 Using equity prices to estimate default probabilities; @lozanoARF: Chapter 2 The Merton model. -->
+<!-- - Complementary material. Video: [FRM: How d2 in Black-Scholes becomes PD in Merton model](https://youtu.be/lV0ytJYbVzc) -->
+<!-- - Extra marks. DataCamp project: *Visualizing COVID-19* by Richie Cotton.  Before 10:00 a.m. -->
+
+## Part 2. `r fontawesome::fa("battery-half")`
+
+**Session 5. Monday, 20 February.**
+
+- Submit $H_1$ and $E_1$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
+
+<!-- - Readings. @Hull9: Section 24.6 Using equity prices to estimate default probabilities; @lozanoARF: Chapter 2 The Merton model. -->
+
+
+
+
+<!-- - [International Literacy Day.](https://youtu.be/spAAxgGZ4HI) -->
+
+**Session 6. Monday, 27 February.**
+
+
+
+
+<!-- - [International Day of Democracy.](https://www.un.org/en/observances/democracy-day) -->
+<!-- - Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit) -->
+<!-- - Super extra marks. Individual class activity. DataCamp assessment: R Programming. -->
+
+**Session 7. Monday, 6 March.**
+
+- $H_2$ review session.
+
+<!-- - Class activity. Analysis of the Mexican economy 1/2. -->
+<!-- - Readings. Look for a recent and relevant Banxico presentation: [Banxico.](https://www.banxico.org.mx/publicaciones-y-prensa/presentaciones/presentaciones-junta-gobierno.html) -->
+<!-- - Complementary material. Look for the latest available videos: [Dinero y Poder.](https://www.youtube.com/watch?v=rg14j5A63Ac&list=PLrFkZrRQk9nldDbMwOJ37xgPKL2M4E6Jl) -->
+
+
+
+<!-- - Class activity. Analysis of the Mexican economy 2/2. -->
+
+**Session 8. Monday, 13 March.**
+
+- Complete $H_2$ before 10:00 a.m.
+- Review $H_2$ answers.
+- $E_2$ review session.
+
+<!-- - Extra marks course: [Introduction to Sustainable Finance.](https://unccelearn.org/course/view.php?id=139&page=overview) -->
+<!-- - Readings. @Hull9: Section 24.8 Default correlation; @lozanoARF: Chapter 3 The Gaussian copula model. -->
+<!-- - Complementary material. Video: [Random numbers following a multivariate normal distribution.](https://youtu.be/cphvhtkpKoc) -->
+
+
+<!-- - [International Day of Awareness on Food Loss and Waste Reduction.](https://www.un.org/en/observances/end-food-waste-day/) -->
+<!-- - Readings. @Hull9: Section 24.8 Default correlation; @lozanoARF: Chapter 3 The Gaussian copula model. -->
+<!-- - Complementary material. Videos from my YouTube channel: [t Copula.](https://youtu.be/XZPVnanmEtw) [Gumbel Copula.](https://youtu.be/Oq27fu86ahU) [Frank Copula.](https://youtu.be/4OOF_FTrZ3w) [Clayton Copula.](https://youtu.be/vtzkgnWjFQ4) -->
+<!-- - Extra marks. DataCamp skill track: Data Visualization with R. Before 10:00 a.m. -->
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 20 March.**
+
+<!-- - Readings. @Hull9: Section 24.8 Default correlation; @lozanoARF: Chapter 3 The Gaussian copula model. -->
+<!-- - Complementary material. Video: [Measuring Credit Risk.](https://youtu.be/03nNzt8PyYM) -->
+<!-- - To know more about copulas see @ruppert2011statistics: Chapter 8. -->
+
+
+**Session 9. Monday, 27 March.**
+
+- $E_2$ instructions available in Blackboard.
+- Review $E_2$ answers.
+- Thursday 30 March: Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
+
+<!-- - Readings. @Hull9: Section 24.8 Default correlation; @lozanoARF: Chapter 3 The Gaussian copula model. -->
+<!-- - Extra marks. DataCamp skill track: Finance Fundamentals in R. Before 10:00 a.m. -->
+
+
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 3 April.**
+
+
+## Part 3. `r fontawesome::fa("battery-three-quarters")`
+
+**Session 10. Monday, 10 April.**
+
+
+
+<!-- - [International Day for Disaster Risk Reduction.](https://www.un.org/en/observances/disaster-reduction-day) -->
+
+
+
+
+<!-- - [International Day for the Eradication of Poverty.](https://www.un.org/en/observances/day-for-eradicating-poverty) -->
+
+**Session 11. Monday, 17 April.**
+
+
+
+
+
+
+<!-- - Readings. @Hull9: Section 25.1 Credit default swaps. -->
+<!-- - Complementary material. Video: [Credit Risk Transfer Mechanisms.](https://youtu.be/nEp2RfweCjs) -->
+
+**Session 12. Monday, 24 April.**
+
+
+<!-- - Readings. @Hull9: Section 25.1 Credit default swaps. -->
+<!-- - Complementary material. Fictional video: [Dr. Michael Burry Betting Against the Housing Market.](https://youtu.be/dqDu1sHoIAw) -->
+<!-- - Super extra marks. Individual class activity. DataCamp assessment: Data Visualization with R. -->
+
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 1 May.**
+
+<!-- - Readings. @Hull9: Section 25.2: Valuation of credit default swaps. -->
+
+
+
+
+<!-- - Readings. @Hull9: Section 25.2: Valuation of credit default swaps. -->
+
+**Session 13. Monday, 8 May.**
+
+<!-- - Readings. @Hull9: Section 25.2: Valuation of credit default swaps. -->
+
+**Session 14. Thursday, 11 May.**
+
+- Complete $H_3$ before 10:00 a.m.
+- $E_F$ review session.
+- Farewell.
+
+<!-- - Time to catch up with the material. -->
+<!-- - Extra marks. DataCamp skill track: Tidyverse Fundamentals with R. Before 10:00 a.m. -->
+
+## The end. `r fontawesome::fa("battery-full")`
+
+**Final exam. Saturday, 27 May, 10:00 – 12:00.**
+
+- $E_F$ instructions available in Blackboard.
+
+
+\newpage
