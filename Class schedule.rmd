@@ -42,12 +42,13 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 <!-- - Readings. @lozanoARF: Chapter 1. Loan analysis. -->
 <!-- - To know more about regression with a binary dependent variable, and references to credit risk please see @hanck2020introduction: Chapter 11. @hull2020machine: Chapter 3. Classifiers: [ROC Curves, Area under curve, classification rate, true/false positive rate.](https://youtu.be/HljSmQhLs8M) -->
 
-**Session 3. Monday, 30 January.**
+**Session 3, Zoom. Monday, 30 January.**
 
 <!-- - Readings. @lozanoARF: Chapter 1 Loan analysis; Mensaje del futuro para ARF. -->
 <!-- - Complementary material. Article: @alonso2021understanding. -->
 <!-- - Extra marks. DataCamp course: *Credit Risk Modeling in R* by Lore Dirick. Before 10:00 a.m. -->
-
+- Extra marks. DataCamp course: *Credit Risk Modeling in R* by Lore Dirick. Before 10:00 a.m.
+- $ME_1$ instructions available in Blackboard.
 - Complete $H_1$ before 10:00 a.m.
 - Review $H_1$ answers.
 - $E_1$ review session.
@@ -62,10 +63,11 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 <!-- - Complementary material. PowerPoint slides: [John C. Hull.](https://www-2.rotman.utoronto.ca/~hull/ofodslides/index.html) -->
 <!-- - Extra marks. DataCamp skill track: R Programming. Before 10:00 a.m. -->
 
-**Session 4. Monday, 13 February.**
+**Session 4, Zoom. Monday, 13 February.**
 
 - $E_1$ instructions available in Blackboard.
 - Review $E_1$ answers.
+- The wheel of fortune 1/3.
 
 <!-- - Readings. @Hull9: Section 24.6 Using equity prices to estimate default probabilities; @lozanoARF: Chapter 2 The Merton model. -->
 <!-- - Complementary material. Reading: @brealey2020principles: Chapter 23 Credit Risk and the Value of Corporate Debt. -->
@@ -82,6 +84,7 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 
 **Session 5. Monday, 20 February.**
 
+- Extra marks. DataCamp skill track: R Programming. Before 10:00 a.m.
 - Submit $H_1$ and $E_1$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
 
 <!-- - Readings. @Hull9: Section 24.6 Using equity prices to estimate default probabilities; @lozanoARF: Chapter 2 The Merton model. -->
@@ -95,13 +98,13 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 
 
 
-
 <!-- - [International Day of Democracy.](https://www.un.org/en/observances/democracy-day) -->
 <!-- - Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit) -->
 <!-- - Super extra marks. Individual class activity. DataCamp assessment: R Programming. -->
 
 **Session 7. Monday, 6 March.**
 
+- Extra marks course: [Open Online Course on Gender and Environment.](https://unccelearn.org/course/view.php?id=39&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
 - $H_2$ review session.
 
 <!-- - Class activity. Analysis of the Mexican economy 1/2. -->
@@ -112,8 +115,10 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 
 <!-- - Class activity. Analysis of the Mexican economy 2/2. -->
 
-**Session 8. Monday, 13 March.**
+**Session 8, Zoom. Monday, 13 March.**
 
+- Super extra marks. Individual class activity. DataCamp assessment: R Programming.
+- $ME_2$ instructions available in Blackboard.
 - Complete $H_2$ before 10:00 a.m.
 - Review $H_2$ answers.
 - $E_2$ review session.
@@ -135,10 +140,11 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 <!-- - To know more about copulas see @ruppert2011statistics: Chapter 8. -->
 
 
-**Session 9. Monday, 27 March.**
+**Session 9, Zoom. Monday, 27 March.**
 
 - $E_2$ instructions available in Blackboard.
 - Review $E_2$ answers.
+- The wheel of fortune 2/3.
 - Thursday 30 March: Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
 
 <!-- - Readings. @Hull9: Section 24.8 Default correlation; @lozanoARF: Chapter 3 The Gaussian copula model. -->
@@ -164,6 +170,7 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 
 **Session 11. Monday, 17 April.**
 
+- Extra marks course: [Introduction to Green Economy.](https://unccelearn.org/course/view.php?id=51&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
 
 
 
@@ -173,6 +180,8 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 <!-- - Complementary material. Video: [Credit Risk Transfer Mechanisms.](https://youtu.be/nEp2RfweCjs) -->
 
 **Session 12. Monday, 24 April.**
+
+- Extra marks. DataCamp skill track: Data Visualization with R. Before 10:00 a.m.
 
 
 <!-- - Readings. @Hull9: Section 25.1 Credit default swaps. -->
@@ -191,20 +200,29 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 
 **Session 13. Monday, 8 May.**
 
+- Extra marks. DataCamp skill track: Finance Fundamentals in R. Before 10:00 a.m.
 <!-- - Readings. @Hull9: Section 25.2: Valuation of credit default swaps. -->
 
-**Session 14. Thursday, 11 May.**
+**Session 14, Zoom. Thursday, 11 May.**
 
+- Super extra marks. Individual class activity. DataCamp assessment: Data Visualization with R.
+- $ME_F$ instructions available in Blackboard.
 - Complete $H_3$ before 10:00 a.m.
 - $E_F$ review session.
+- The wheel of fortune 3/3.
 - Farewell.
+
+**Session 15, Zoom. Friday, 12 May, 16:00 – 19:00.**
+
+- Extra marks. DataCamp skill track: Tidyverse Fundamentals with R. Before 10:00 a.m.
+- Open rehearsal PEF students.
 
 <!-- - Time to catch up with the material. -->
 <!-- - Extra marks. DataCamp skill track: Tidyverse Fundamentals with R. Before 10:00 a.m. -->
 
 ## The end. `r fontawesome::fa("battery-full")`
 
-**Final exam. Saturday, 27 May, 10:00 – 12:00.**
+**Final exam, Zoom. Saturday, 27 May, 10:00 – 12:00.**
 
 - $E_F$ instructions available in Blackboard.
 
