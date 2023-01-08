@@ -78,7 +78,7 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 
 - Reading. @Hull9, Section 24.6 *Using equity prices to estimate default probabilities*.
 - Reading. @lozanoARF, Chapter 2 *The Merton model*.
-- Complementary material. Video: [FRM: How d2 in Black-Scholes becomes PD in Merton model.](https://youtu.be/lV0ytJYbVzc)
+- Complementary material. Video: [FRM: How $d_2$ in Black-Scholes becomes PD in Merton model.](https://youtu.be/lV0ytJYbVzc)
 - Super extra marks. Individual class activity. DataCamp assessment: *R programming*.
 - $ME_2$ instructions available in Blackboard.
 - Complete $H_2$ before 10:00 a.m.
