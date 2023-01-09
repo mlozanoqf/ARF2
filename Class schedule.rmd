@@ -80,7 +80,7 @@ ARF2, Spring 2023. Room 3313, 19:00 – 22:00.
 - Reading. @lozanoARF, Chapter 2 *The Merton model*.
 - Complementary material. Video: [FRM: How $d_2$ in Black-Scholes becomes PD in Merton model.](https://youtu.be/lV0ytJYbVzc)
 - Super extra marks. Individual class activity. DataCamp assessment: *R programming*.
-- $ME_2$ instructions in Blackboard.
+- Extra marks. $ME_2$ instructions in Blackboard.
 - Graded. Complete $H_2$ before 10:00 a.m.
 - Activity. Review $H_2$ answers.
 - Activity. $E_2$ review.
