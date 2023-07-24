@@ -8,7 +8,11 @@ title: ''
 
 # `r fontawesome::fa("calendar-alt")` Class schedule. 
 
-ARF2, Fall 2023. Room 1307, 19:00 – 22:00.
+`r fontawesome::fa("credit-card")` ARF2, Fall 2023. 
+
+Room 1307, 19:00 – 22:00.
+
+Zoom [https://us02web.zoom.us/j/81381398912](https://us02web.zoom.us/j/81381398912)
 
 ## `r fontawesome::fa("battery-quarter")` Part 1.
 
@@ -104,6 +108,7 @@ ARF2, Fall 2023. Room 1307, 19:00 – 22:00.
 
 - Graded. Submit $H_2$ and $E_2$ auto and co-evaluation before 7:00 a.m. Instructions in Blackboard.
 - Extra marks 6/8. [Introduction to Green Economy.](https://unccelearn.org/course/view.php?id=51&page=overview) Submit your PDF certificate before 7:00 a.m. by the discussion forum.
+- Complementary material. [The Plastic Recycling Myth.](https://youtu.be/zZlRhCDzh2A)
 - Class activity. Analysis of the Mexican economy.
 - Readings. Look for a recent and relevant Banxico presentation: [Banxico.](https://www.banxico.org.mx/publicaciones-y-prensa/presentaciones/presentaciones-junta-gobierno.html)
 - Reading. @Hull9, Section 24.8 *Default correlation*.
@@ -115,6 +120,7 @@ ARF2, Fall 2023. Room 1307, 19:00 – 22:00.
 
 - Reading. @Hull9, Section 24.8 *Default correlation*.
 - Reading. @lozanoARF, Chapter 3 *The Gaussian copula model*.
+- Complementary material. Videos. [t Copula: random numbers.](https://youtu.be/XZPVnanmEtw) [Gumbel Copula: random numbers.](https://youtu.be/Oq27fu86ahU) [Frank Copula: random numbers.](https://youtu.be/4OOF_FTrZ3w) [Clayton Copula: random numbers.](https://youtu.be/vtzkgnWjFQ4)
 
 **Session 13. Thursday, 26 October.**
 
