@@ -44,11 +44,13 @@
 - Complementary material. Video: [Ethics and trust in the investment profession.](https://youtu.be/azBhDSjBRS0)
 - Extra marks 3/8. [Introduction to Sustainable Finance (NEW).](https://unccelearn.org/course/view.php?id=139&page=overview) Submit your PDF certificate before 10:00 a.m. by the discussion forum.
 - Graded. Complete $H_1$ before 10:00 a.m.
+- Activity. $H_1$ presentations.
 - Activity. $E_1$ review.
 
 **$E_1$, Zoom. Saturday, 24 February, 19:00 – 20:30.**
 
 - Graded. $E_1$ Instructions in Blackboard.
+- Graded. $H_1$ and $E_1$ auto and co-evaluation form is available for you to complete after the exam. Instructions in Blackboard.
 
 ## `r fontawesome::fa("battery-half")` Part 2.
 
@@ -85,12 +87,14 @@
 
 - Reading. @lozanoARF, Chapter 2 *The Merton model*.
 - Graded. Complete $H_2$ before 10:00 a.m.
+- Activity. $H_2$ presentations.
 - Extra marks. Mentimeter 2/2.
 - Activity. $E_2$ review.
 
 **$E_2$, Zoom. Saturday, 6 April, 19:00 – 20:30.**
 
 - Graded. $E_2$ Instructions in Blackboard.
+- Graded. $H_2$ and $E_2$ auto and co-evaluation form is available for you to complete after the exam. Instructions in Blackboard.
 
 ## `r fontawesome::fa("battery-three-quarters")` Part 3.
 
@@ -102,6 +106,7 @@
 - Extra marks 6/8. [Introduction to Green Economy.](https://unccelearn.org/course/view.php?id=51&page=overview) Submit your PDF certificate before 10:00 a.m. by the discussion forum.
 - Complementary material. [The Plastic Recycling Myth.](https://youtu.be/zZlRhCDzh2A)
 - Extra marks. The wheel of fortune 2/3.
+- Extra marks. Tuesday, April 9th: DataCamp top 5 XP of the last 90 days.
 
 **Session 11. Monday, 15 April.**
 
