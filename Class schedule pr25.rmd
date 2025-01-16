@@ -61,6 +61,7 @@
 - Graded. Submit $H_1$ and $E_1$ co-evaluation before 10:00 a.m. Instructions in Blackboard.
 - Reading. @brigham2009fundamentals, Chapter 4 *Analysis of financial statements*.
 - Reading. @drake2010basics, Chapter 11 *Financial ratio analysis*.
+- *No conozco la fecha límite, pero deben completar la encuesta avanza 180 por favor.*
 
 **Session 7. Monday, March 3.**  
 
@@ -123,6 +124,7 @@
 - Non graded. Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit)
 - Complementary material. Video 13/14: [Masters of Finance: Maureen O'Hara.](https://youtu.be/vTB1ckSFA-w)
 - Non-graded. Complete $H_3$ before 10:00 a.m.
+- *No conozco la fecha límite, pero deben completar la encuesta avanza 360 por favor.*
 
 **Session 14, Zoom. `r fontawesome::fa("jedi-order")` Monday, May 5.**
 
