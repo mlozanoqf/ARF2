@@ -20,13 +20,13 @@ FCF2, Fall 2025. Room 4309, Monday 19:00 – 22:00. Zoom [https://us02web.zoom.u
 
 - Topic 1/3: Foundations of finance: Markets, ethics, and value creation.
 - Obligatorio. Acepta las normativas del curso: [Formulario.](https://forms.gle/yqDasXvTdjBMxM6A8)
-- Reading. @drake2010basics, chapter 1, section 1.1: *What Is finance?*
-- Reading. @drake2010basics, chapter 1, section 1.2: *Jobs in finance*.
-- Reading. @drake2010basics, chapter 1, section 1.3: *Forms of business organization*.
+- Reading. @brigham2019fundamentals, chapter 1, section 1.1: *What Is finance?*
+- Reading. @brigham2019fundamentals, chapter 1, section 1.2: *Jobs in finance*.
+- Reading. @brigham2019fundamentals, chapter 1, section 1.3: *Forms of business organization*.
 <li style="list-style-type: none; text-align: center;">
   <i class="fa-solid fa-mug-saucer"></i>
 </li>
-- Reading. @drake2010basics, chapter 1, section 1.4: *The main financial goal: Creating value for investors*. *What is finance?*
+- Reading. @brigham2019fundamentals, chapter 1, section 1.4: *The main financial goal: Creating value for investors*. *What is finance?*
 - Reading. @brigham2019fundamentals, chapter 1, section 1.5: *Stockholder–manager conflicts*.
 - Reading. Dinero e ideas. See: [https://mlozanoqf.github.io/ensayos/](https://mlozanoqf.github.io/ensayos/)
 
@@ -38,14 +38,14 @@ FCF2, Fall 2025. Room 4309, Monday 19:00 – 22:00. Zoom [https://us02web.zoom.u
 
 **Session 4. Monday, August 25.**
 
-- Reading. @drake2010basics, chapter 2, section 2.1: *The capital allocation process*.
-- Reading. @drake2010basics, chapter 2, section 2.4: *The stock market*.
+- Reading. @brigham2019fundamentals, chapter 2, section 2.1: *The capital allocation process*.
+- Reading. @brigham2019fundamentals, chapter 2, section 2.4: *The stock market*.
 - Complementary material. Fictional video (warning, it has offensive language): [FrontPoint partners confronts Morgan Stanley risk assessors and S&P.](https://youtu.be/Vvxbc8L4s64)
 
 **Session 5, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, September 1.**
 
-- Reading. @drake2010basics, chapter 2, section 2.5: *The market for common stock*.
-- Reading. @drake2010basics, chapter 2, section 2.6: *Stock markets and returns*.
+- Reading. @brigham2019fundamentals, chapter 2, section 2.5: *The market for common stock*.
+- Reading. @brigham2019fundamentals, chapter 2, section 2.6: *Stock markets and returns*.
 - Reading. There is no free lunch. See: [https://mlozanoqf.github.io/ensayos/](https://mlozanoqf.github.io/ensayos/)
 <li style="list-style-type: none; text-align: center;">
   <i class="fa-solid fa-mug-saucer"></i>
