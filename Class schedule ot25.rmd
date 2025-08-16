@@ -68,6 +68,7 @@ FCF2, Fall 2025. Room 4309, Monday 19:00 – 22:00. Zoom [https://us02web.zoom.u
 **Session 7, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, September 15.**
 
 - Graded. $E_1$ Instructions in Blackboard.
+- The link to complete $H_1$ and $E_1$ co-evaluation will be available on Blackboard right after the exam.
 <li style="list-style-type: none; text-align: center;">
   <i class="fa-solid fa-mug-saucer"></i>
 </li>
@@ -113,6 +114,7 @@ FCF2, Fall 2025. Room 4309, Monday 19:00 – 22:00. Zoom [https://us02web.zoom.u
 **Session 12, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, October 20.**
 
 - Graded. $E_2$ Instructions in Blackboard.
+- The link to complete $H_2$ and $E_2$ co-evaluation will be available on Blackboard right after the exam.
 <li style="list-style-type: none; text-align: center;">
   <i class="fa-solid fa-mug-saucer"></i>
 </li>
