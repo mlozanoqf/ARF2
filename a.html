@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Espacios Seguros en el Entorno Universitario</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .infografia {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #4CAF50, #45a049);
+            color: white;
+            padding: 40px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: repeating-linear-gradient(
+                45deg,
+                transparent,
+                transparent 10px,
+                rgba(255,255,255,0.1) 10px,
+                rgba(255,255,255,0.1) 20px
+            );
+            animation: slide 20s linear infinite;
+        }
+        
+        @keyframes slide {
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 1;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            position: relative;
+            z-index: 1;
+            opacity: 0.9;
+        }
+        
+        .contenido {
+            padding: 40px;
+        }
+        
+        .seccion {
+            margin-bottom: 40px;
+            padding: 30px;
+            border-radius: 15px;
+            background: linear-gradient(145deg, #f8f9fa, #e9ecef);
+            box-shadow: 5px 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        
+        .seccion:hover {
+            transform: translateY(-5px);
+        }
+        
+        .seccion h2 {
+            color: #2c3e50;
+            font-size: 2em;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .icono {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5em;
+            color: white;
+        }
+        
+        .definicion { background: linear-gradient(135deg, #3498db, #2980b9); }
+        .caracteristicas { background: linear-gradient(135deg, #e74c3c, #c0392b); }
+        .genero { background: linear-gradient(135deg, #9b59b6, #8e44ad); }
+        .violencia { background: linear-gradient(135deg, #f39c12, #d68910); }
+        .propuestas { background: linear-gradient(135deg, #27ae60, #229954); }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .tarjeta {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            border-left: 5px solid #4CAF50;
+            transition: all 0.3s ease;
+        }
+        
+        .tarjeta:hover {
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+            transform: translateY(-2px);
+        }
+        
+        .tarjeta h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+        
+        .tarjeta p {
+            color: #555;
+            line-height: 1.6;
+            font-size: 0.95em;
+        }
+        
+        .lista {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .lista li {
+            margin: 15px 0;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+            position: relative;
+            padding-left: 50px;
+        }
+        
+        .lista li::before {
+            content: '✓';
+            position: absolute;
+            left: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 25px;
+            height: 25px;
+            background: #4CAF50;
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+        
+        .alerta {
+            background: linear-gradient(135deg, #ff6b6b, #ee5a52);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            box-shadow: 0 5px 15px rgba(255,107,107,0.3);
+        }
+        
+        .alerta h4 {
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+        
+        .destacado {
+            background: linear-gradient(135deg, #74b9ff, #0984e3);
+            color: white;
+            padding: 25px;
+            border-radius: 10px;
+            margin: 20px 0;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(116,185,255,0.3);
+        }
+        
+        .estadistica {
+            display: flex;
+            justify-content: space-around;
+            margin: 30px 0;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        
+        .numero {
+            text-align: center;
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            min-width: 150px;
+        }
+        
+        .numero .cifra {
+            font-size: 3em;
+            font-weight: bold;
+            color: #e74c3c;
+            display: block;
+        }
+        
+        .numero .texto {
+            color: #555;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+        
+        .footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 30px;
+            margin-top: 40px;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 { font-size: 2em; }
+            .contenido { padding: 20px; }
+            .seccion { padding: 20px; }
+            .grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="infografia">
+
+        
+        <div class="contenido">
+            <div class="seccion">
+                <h2><div class="icono definicion">📚</div>¿Qué es un Espacio Seguro?</h2>
+                <div class="destacado">
+                    <strong>Un espacio seguro es un ambiente físico, emocional y social donde todas las personas pueden participar, aprender y desarrollarse sin temor a la discriminación, violencia o acoso, especialmente por razones de género, orientación sexual, identidad, raza, religión o cualquier otra característica personal.</strong>
+                </div>
+                <div class="grid">
+                    <div class="tarjeta">
+                        <h3>🔒 Seguridad Física</h3>
+                        <p>Libre de agresiones, acoso sexual, violencia física y amenazas. Incluye espacios bien iluminados, con sistemas de seguridad adecuados y protocolos claros de respuesta.</p>
+                    </div>
+                    <div class="tarjeta">
+                        <h3>💭 Seguridad Emocional</h3>
+                        <p>Ambiente donde las personas pueden expresarse sin temor al juicio, la ridiculización o la exclusión. Se fomenta el respeto mutuo y la empatía.</p>
+                    </div>
+                    <div class="tarjeta">
+                        <h3>⚖️ Seguridad Social</h3>
+                        <p>Ausencia de discriminación, estereotipos y prejuicios. Se promueve la inclusión y la equidad para todos los miembros de la comunidad universitaria.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="seccion">
+                <h2><div class="icono caracteristicas">⭐</div>Características de un Espacio Seguro</h2>
+                <ul class="lista">
+                    <li><strong>Inclusivo y Diverso:</strong> Valora y respeta las diferencias individuales, promoviendo la participación equitativa de todas las personas.</li>
+                    <li><strong>Libre de Violencia:</strong> Política de cero tolerancia hacia cualquier forma de violencia física, psicológica, sexual o simbólica.</li>
+                    <li><strong>Confidencialidad:</strong> Protege la privacidad y confidencialidad de quienes reportan incidentes o buscan apoyo.</li>
+                    <li><strong>Accesible:</strong> Garantiza el acceso físico y comunicativo para personas con discapacidades.</li>
+                    <li><strong>Participativo:</strong> Fomenta la participación activa y democrática en la toma de decisiones.</li>
+                    <li><strong>Con Protocolos Claros:</strong> Cuenta con procedimientos transparentes para prevenir, reportar y atender situaciones de violencia.</li>
+                </ul>
+            </div>
+
+
+<div style="margin-bottom: 180px;"></div>
+<div></div>
+
+            <div class="seccion">
+                <h2><div class="icono genero">⚧️</div>Relación con la Perspectiva de Género</h2>
+                <div class="grid">
+                    <div class="tarjeta">
+                        <h3>🔍 Análisis de Género</h3>
+                        <p>Examina cómo las construcciones sociales de género afectan las experiencias educativas y perpetúan desigualdades en el ámbito universitario.</p>
+                    </div>
+                    <div class="tarjeta">
+                        <h3>📊 Identificación de Brechas</h3>
+                        <p>Reconoce las diferencias en oportunidades, participación y resultados académicos entre diferentes identidades de género.</p>
+                    </div>
+                    <div class="tarjeta">
+                        <h3>🎯 Intervención Específica</h3>
+                        <p>Desarrolla estrategias dirigidas a eliminar barreras y promover la equidad de género en todos los aspectos de la vida universitaria.</p>
+                    </div>
+                    <div class="tarjeta">
+                        <h3>🌈 Diversidad Sexual</h3>
+                        <p>Incluye y protege a personas LGBTIQ+, reconociendo la diversidad de identidades y orientaciones sexuales.</p>
+                    </div>
+                </div>
+            </div>
+
+<div style="margin-bottom: 180px;"></div>
+<div></div>
+
+            <div class="seccion">
+                <h2><div class="icono propuestas">💡</div>Propuestas para Fomentar Espacios Seguros</h2>
+                
+                <div class="grid">
+                    <div class="tarjeta">
+                        <h3>📋 Políticas Institucionales</h3>
+                        <p>• Código de ética y conducta con perspectiva de género<br>
+                        • Sanciones claras y proporcionales<br>
+                        • Evaluación periódica de políticas</p>
+                    </div>
+                    
+                    <div class="tarjeta">
+                        <h3>🎓 Capacitación y Formación</h3>
+                        <p>• Formación para docentes y personal administrativo<br>
+                        • Capacitación en primeros auxilios psicológicos<br>
+                        • Actualización constante en marcos normativos</p>
+                    </div>
+                    
+                    <div class="tarjeta">
+                        <h3>💬 Canales de Denuncia</h3>
+                        <p>• Múltiples vías de reporte (presencial, digital, anónima)<br>
+                        • Línea de atención 24/7<br>
+                        • Acompañamiento legal y psicológico</p>
+                    </div>
+                    
+                    <div class="tarjeta">
+                        <h3>👥 Participación Estudiantil</h3>
+                        <p>• Comités estudiantiles de género<br>
+                        • Redes de apoyo entre pares<br>
+                        • Campañas de sensibilización lideradas por estudiantes</p>
+                    </div>
+                    
+                </div>
+                
+
+            </div>
+        </div>
+        
+
+    </div>
+</body>
+</html>
