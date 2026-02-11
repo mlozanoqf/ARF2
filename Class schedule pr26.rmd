@@ -154,7 +154,7 @@ FCF2, Spring 2026. Room 2408, Monday 19:00 – 22:00. Zoom [https://us02web.zoom
 
 ## `r fontawesome::fa("battery-full", fill = "green")` The end.
 
-**Final exam, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. – TBC.**
+**Final exam, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, May 11, 19:00 -- 21:00**
 
 - Graded. $E_F$ Instructions in Blackboard.
 
