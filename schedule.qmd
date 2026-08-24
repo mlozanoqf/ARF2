@@ -47,7 +47,8 @@
 **Session 6, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, September 7.**
 
 - *The deadline is not yet available, but please remember to complete the Avanza 180 survey.*
-- Graded. Complete the Written component of $E_1$ remotely during the scheduled class period.
+- Graded. Complete the Written component of $E_1$ remotely during the scheduled class period. The exam ends at 8:30 p.m.
+- Required. Rejoin the [class Zoom session]({{< meta course.zoom >}}) at 8:45 p.m. for the second part of the class session.
 
 **Session 7. Monday, September 14.**
 
@@ -79,7 +80,8 @@
 
 **Session 11, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. <span class="bi bi-globe-americas content-icon" aria-hidden="true"></span> Monday, October 12.**
 
-- Graded. Complete the Written component of $E_2$ remotely during the scheduled class period.
+- Graded. Complete the Written component of $E_2$ remotely during the scheduled class period. The exam ends at 8:30 p.m.
+- Required. Rejoin the [class Zoom session]({{< meta course.zoom >}}) at 8:45 p.m. for the second part of the class session.
 
 **Session 12. Monday, October 19.**
 
